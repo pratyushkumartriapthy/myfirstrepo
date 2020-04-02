@@ -1,0 +1,69 @@
+[33mcommit e83508f5e036bd147fad69c7a1fb7f16b95818a9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Pratyush Tripathy <pratripa3@publicisgroupe.net>
+Date:   Thu Apr 2 13:55:06 2020 +0530
+
+    first version
+
+[33mcommit d1537cbf490465e9799ea98a7606ae9b90ed78b9[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: pratyushkumartriapthy <41503743+pratyushkumartriapthy@users.noreply.github.com>
+Date:   Thu Apr 2 12:29:37 2020 +0530
+
+    Create pizza.txt
+
+[33mcommit 7cc8950e6e52d3a30c8e143ac9ac0e50ccea432a[m
+Merge: dba53c1 209b992
+Author: pratyushkumartriapthy <41503743+pratyushkumartriapthy@users.noreply.github.com>
+Date:   Thu Apr 2 12:21:01 2020 +0530
+
+    Merge pull request #1 from pratyushkumartriapthy/newbranch1
+    
+    Newbranch1
+
+[33mcommit 209b992813e907f20b451d84414810e5afc89c80[m[33m ([m[1;31morigin/newbranch1[m[33m)[m
+Merge: c784570 dba53c1
+Author: pratyushkumartriapthy <41503743+pratyushkumartriapthy@users.noreply.github.com>
+Date:   Thu Apr 2 12:20:08 2020 +0530
+
+    Merge branch 'master' into newbranch1
+
+[33mcommit c78457016af64bfa4b7e9c6a87f455cd919c052e[m
+Author: pratyushkumartriapthy <41503743+pratyushkumartriapthy@users.noreply.github.com>
+Date:   Thu Apr 2 12:18:49 2020 +0530
+
+    Update mykitchen
+
+[33mcommit dba53c16e45eca37f3d9280cea734556854e979e[m
+Author: pratyushkumartriapthy <41503743+pratyushkumartriapthy@users.noreply.github.com>
+Date:   Thu Apr 2 12:18:07 2020 +0530
+
+    Update mykitchen
+
+[33mcommit b88002e7cd57dbfdc5fa4de1316d9e84cb8b42d3[m
+Author: pratyushkumartriapthy <41503743+pratyushkumartriapthy@users.noreply.github.com>
+Date:   Thu Apr 2 12:02:39 2020 +0530
+
+    Update mykitchen
+
+[33mcommit 914733a43824feb9acf2449cb883b000509e4bd2[m
+Author: pratyushkumartriapthy <41503743+pratyushkumartriapthy@users.noreply.github.com>
+Date:   Thu Apr 2 11:56:24 2020 +0530
+
+    Update mykitchen
+
+[33mcommit 222b9cee6454735c44c2916e4f877291662584a1[m
+Author: pratyushkumartriapthy <41503743+pratyushkumartriapthy@users.noreply.github.com>
+Date:   Thu Apr 2 11:56:13 2020 +0530
+
+    Update mykitchen
+
+[33mcommit 7dfb1e4c169ef3cad5429921453d937f058d65f5[m
+Author: pratyushkumartriapthy <41503743+pratyushkumartriapthy@users.noreply.github.com>
+Date:   Thu Apr 2 11:53:31 2020 +0530
+
+    commit1
+
+[33mcommit 0624bc56867c879311647caf17b89537a73cc42d[m
+Author: pratyushkumartriapthy <41503743+pratyushkumartriapthy@users.noreply.github.com>
+Date:   Thu Apr 2 11:48:42 2020 +0530
+
+    Initial commit
